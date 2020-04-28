@@ -1,0 +1,13 @@
+C:\Users\ROMAN\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ElectonicContol.exe
+C:\Users\ROMAN\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ElectonicContol.deps.json
+C:\Users\ROMAN\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ElectonicContol.runtimeconfig.json
+C:\Users\ROMAN\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ElectonicContol.runtimeconfig.dev.json
+C:\Users\ROMAN\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ElectonicContol.dll
+C:\Users\ROMAN\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ElectonicContol.pdb
+C:\Users\ROMAN\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ElectonicContol.csproj.CoreCompileInputs.cache
+C:\Users\ROMAN\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ElectonicContol.AssemblyInfoInputs.cache
+C:\Users\ROMAN\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ElectonicContol.AssemblyInfo.cs
+C:\Users\ROMAN\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ElectonicContol.dll
+C:\Users\ROMAN\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ElectonicContol.pdb
+C:\Users\ROMAN\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ElectonicContol.genruntimeconfig.cache
+C:\Users\ROMAN\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ElectonicContol.csprojAssemblyReference.cache

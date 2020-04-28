@@ -1,0 +1,32 @@
+C:\Users\ROMAN\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ElectronicContol.AssemblyInfoInputs.cache
+C:\Users\ROMAN\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ElectronicContol.AssemblyInfo.cs
+C:\Users\ROMAN\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ElectronicContol.exe
+C:\Users\ROMAN\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ElectronicContol.deps.json
+C:\Users\ROMAN\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ElectronicContol.runtimeconfig.json
+C:\Users\ROMAN\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ElectronicContol.runtimeconfig.dev.json
+C:\Users\ROMAN\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ElectronicContol.dll
+C:\Users\ROMAN\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ElectronicContol.pdb
+C:\Users\ROMAN\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ElectronicContol.dll
+C:\Users\ROMAN\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ElectronicContol.pdb
+C:\Users\ROMAN\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ElectronicContol.genruntimeconfig.cache
+C:\Users\ROMAN\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\ROMAN\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ElectronicContol.csproj.CopyComplete
+C:\Users\ROMAN\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\NLog.config
+C:\Users\ROMAN\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ElectronicContol.csproj.CoreCompileInputs.cache
+C:\Users\ROMAN\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ElectronicContol.csprojAssemblyReference.cache
+C:\Users\ROMAN\source\repos\object hierarchy\ConsoleApp1\bin\Debug\netcoreapp3.1\NLog.config
+C:\Users\ROMAN\source\repos\object hierarchy\ConsoleApp1\bin\Debug\netcoreapp3.1\ElectronicContol.exe
+C:\Users\ROMAN\source\repos\object hierarchy\ConsoleApp1\bin\Debug\netcoreapp3.1\ElectronicContol.deps.json
+C:\Users\ROMAN\source\repos\object hierarchy\ConsoleApp1\bin\Debug\netcoreapp3.1\ElectronicContol.runtimeconfig.json
+C:\Users\ROMAN\source\repos\object hierarchy\ConsoleApp1\bin\Debug\netcoreapp3.1\ElectronicContol.runtimeconfig.dev.json
+C:\Users\ROMAN\source\repos\object hierarchy\ConsoleApp1\bin\Debug\netcoreapp3.1\ElectronicContol.dll
+C:\Users\ROMAN\source\repos\object hierarchy\ConsoleApp1\bin\Debug\netcoreapp3.1\ElectronicContol.pdb
+C:\Users\ROMAN\source\repos\object hierarchy\ConsoleApp1\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\ROMAN\source\repos\object hierarchy\ConsoleApp1\obj\Debug\netcoreapp3.1\ElectronicContol.csprojAssemblyReference.cache
+C:\Users\ROMAN\source\repos\object hierarchy\ConsoleApp1\obj\Debug\netcoreapp3.1\ElectronicContol.csproj.CoreCompileInputs.cache
+C:\Users\ROMAN\source\repos\object hierarchy\ConsoleApp1\obj\Debug\netcoreapp3.1\ElectronicContol.AssemblyInfoInputs.cache
+C:\Users\ROMAN\source\repos\object hierarchy\ConsoleApp1\obj\Debug\netcoreapp3.1\ElectronicContol.AssemblyInfo.cs
+C:\Users\ROMAN\source\repos\object hierarchy\ConsoleApp1\obj\Debug\netcoreapp3.1\ElectronicContol.csproj.CopyComplete
+C:\Users\ROMAN\source\repos\object hierarchy\ConsoleApp1\obj\Debug\netcoreapp3.1\ElectronicContol.dll
+C:\Users\ROMAN\source\repos\object hierarchy\ConsoleApp1\obj\Debug\netcoreapp3.1\ElectronicContol.pdb
+C:\Users\ROMAN\source\repos\object hierarchy\ConsoleApp1\obj\Debug\netcoreapp3.1\ElectronicContol.genruntimeconfig.cache
